@@ -5,3 +5,5 @@ Aka. TSBGFM...
 # Requisites
 
 npm install express express-session
+
+phaser launcher (windows development)
